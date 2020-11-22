@@ -2,8 +2,6 @@ Projeto_Enade/enade2019
 *.insyncdl
 Projeto_twitter/collected_tweets*
 Projeto_twitter/tweet.json
-Projeto_twitter/.ipynb_checkpoints/
-Projeto_twitter/.ipynb_checkpoints/extract_analyze_tweets-checkpoint.ipynb
-Projeto_enem/.ipynb_checkpoints/
+*.ipynb_checkpoints/
 Projeto_enem/enem2019/
 *vaccess*.txt
