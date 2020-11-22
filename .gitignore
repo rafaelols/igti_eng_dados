@@ -2,6 +2,6 @@ Projeto_Enade/enade2019
 Projeto_twitter/vaccess_keys.txt
 *.insyncdl
 Projeto_twitter/collected_tweets*
-Projeto_twitter/.ipynb_checkpoin
 ts/collected_tweets*
-Projeto_twitter/.ipynb_checkpoints/collected_tweets*
+Projeto_twitter/tweet.json
+Projeto_twitter/.ipynb_checkpoints/
