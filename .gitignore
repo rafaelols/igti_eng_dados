@@ -1,7 +1,11 @@
-Projeto_Enade/enade2019
+modulo_1/projeto_enade/enade2019
 *.insyncdl
-Projeto_twitter/collected_tweets*
-Projeto_twitter/tweet.json
+modulo_1/projeto_twitter/collected_tweets*
+modulo_1/projeto_twitter/tweet.json
 *.ipynb_checkpoints/
-Projeto_enem/enem2019/
+modulo_1/projeto_enem/enem2019/
 *vaccess*.txt
+modulo_1/projeto_twitter/.ipynb_checkpoints/*
+modulo_1/projeto_twitter/.ipynb_checkpoints/extract_analyze_tweets-checkpoint.ipynb
+*solution.ipynb
+.gitignore
